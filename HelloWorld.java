@@ -1,4 +1,5 @@
 // learning vsc
+// al 2-lea comentariu
 
 public class HelloWorld {
 	
